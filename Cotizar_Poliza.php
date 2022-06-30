@@ -38,3 +38,4 @@ if (!empty($edad)) {
     }
 } else {
     print("Debe ingresar su edad para poder realizar la cotización");
+}
